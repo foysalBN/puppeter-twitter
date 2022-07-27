@@ -1,9 +1,0 @@
-{
-  "manifest_version": 2,
-  "name": "image_editor_app",
-  "version": "20220505.2",
-  "imageName": "image.squash",
-  "squash": true,
-  "fsType": "squashfs",
-  "isRemovable": false
-}
