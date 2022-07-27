@@ -1,8 +1,3 @@
-const puppeteer = require('puppeteer')
-const cheerio = require('cheerio');
-const pretty = require('pretty');
-
-// IIFE
 const run = async () => {
     // const browser = await puppeteer.launch();
     // we can add width on lunch
